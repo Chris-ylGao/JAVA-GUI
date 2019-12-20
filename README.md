@@ -1,11 +1,11 @@
 # JAVA-GUI
  ## JAVA Swing exercise
 
-1. HelloWorld
+### 1. HelloWorld
 
 Create a JFrame and a "Hello World" JLable;
 
-2. LoginPage
+### 2. LoginPage
 
 Create a JFrame which cotains a panel;
 
